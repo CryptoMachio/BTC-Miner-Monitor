@@ -8,11 +8,20 @@ An open-source monitoring app for Bitcoin miners, built for Bitaxe, NerdQAxe, Ne
 
 
 
-<img width="1917" height="1079" alt="Captura de pantalla 2026-03-04 a las 10 52 58" src="https://github.com/user-attachments/assets/de0fba2b-6df8-4249-939b-80a917e22f16" />
+<img width="1917" height="1079" alt="Captura de pantalla 2026-03-04 a las 10 52 58" src="https://github.com/user-attachments/assets/de0fba2b-6df8-4249-939b-80a917e22f16" /><br><br>
 
 
 
-<img width="500" height="622" alt="Captura de pantalla 2026-03-04 a las 10 53 17" src="https://github.com/user-attachments/assets/c0cca2d3-634b-4e68-902d-629e35e6dd38" />
+<img width="500" height="622" alt="Captura de pantalla 2026-03-04 a las 10 53 17" src="https://github.com/user-attachments/assets/c0cca2d3-634b-4e68-902d-629e35e6dd38" /><br><br>
+
+
+
+
+
+
+
+<img width="451" height="424" alt="Captura de pantalla 2026-03-04 a las 12 39 15" src="https://github.com/user-attachments/assets/d72a130d-f175-40d2-b588-3c6f2b4c2626" /><br><br>
+
 
 
 
