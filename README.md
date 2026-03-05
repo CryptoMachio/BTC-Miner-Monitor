@@ -36,7 +36,8 @@ All contributions are welcome to keep improving the project! You can make donati
 unuseddisc193@walletofsatoshi.com
 
 
-<br><br>[BTC Miner Monitor.app.zip](https://github.com/user-attachments/files/25740870/BTC.Miner.Monitor.app.zip)
+<br><br>[BTC Miner Monitor.app.zip](https://github.com/user-attachments/files/25770126/BTC.Miner.Monitor.app.zip)
+
 
 
 
