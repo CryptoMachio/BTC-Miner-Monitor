@@ -1,6 +1,17 @@
 # BTC-Miner-Monitor
 
-An open-source monitoring app for Bitcoin miners, built for Bitaxe, NerdQAxe, NerdAxe, and NerdOctAxe devices. It provides real-time local network monitoring, live status, configuration tools, and alerts for key issues such as miner offline, high temperature, and low power conditions. In addition to monitoring, the app also allows you to configure supported device settings directly from the app itself. At this stage, the current release is only compatible with macOS.
+BTC Miner Monitor is your all-in-one app for monitoring and managing open-source Bitcoin miners.
+
+Track your fleet in real time, including Bitaxe, NerdAxe, NerdQaxe, and NerdOctaxe devices, from a single dashboard. View hashrate, power, temperature, and miner status instantly, and configure your miners from one unified app without jumping between tools.
+
+Stay on top of performance at a glance with Home Screen and Desktop widgets for macOS, showing your key header metrics like total hashrate, total power, and miner count.
+
+With built-in smart alerts, you’ll receive notifications when:
+
+A miner goes offline
+Temperature gets too high
+Power drops below expected levels
+Whether you run one miner or many, BTC Miner Monitor helps you stay in control, reduce downtime, and keep your mining operation running efficiently.
 
 
 
